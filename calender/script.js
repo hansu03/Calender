@@ -85,3 +85,6 @@ const currentDate = document.querySelector(".current-date");
 
 
    });
+
+
+<!-- if including php in future then you can add new file of .php format -->
